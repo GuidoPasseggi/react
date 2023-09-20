@@ -1,0 +1,6 @@
+/* Tailwind Version es: 3.3.3 */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* FIXME: se pueden ignorar estos warnings de importación  */
